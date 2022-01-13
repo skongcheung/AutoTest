@@ -2,3 +2,4 @@
 这是一个需要合并的分支
 这是master上面的内容
 这是branch2分支上增加的内容
+version 1
