@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="suitename">
+    <test name="OnlyRunStudent">
+        <groups>
+            <run>
+                <include name="teacher"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.zxk.code.groups.GroupsOnClass1"/>
+            <class name="com.zxk.code.groups.GroupsOnClass2"/>
+            <class name="com.zxk.code.groups.GroupsOnClass3"/>
+        </classes>
+
+    </test>
+
+</suite>
