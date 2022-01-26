@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="param1">
+    <test name="param2">
+        <classes>
+            <parameter name="name" value="zhangxiaokang"/>
+            <parameter name="age" value="30"/>
+            <class name="com.zxk.code.paramter.ParameterTest"/>
+        </classes>
+    </test>
+</suite>
