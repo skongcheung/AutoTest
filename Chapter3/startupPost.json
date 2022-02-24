@@ -1,0 +1,17 @@
+[
+  {
+    "description": "模拟一个post请求",
+    "request": {
+      "uri": "/postdemo",
+      "method": "Post"
+    },
+    "response": {
+      "headers": {
+        "Content-Type": "text/html;charset=utf-8"
+      },
+      "text": "我胡汉三回来了哈哈哈哈哈哈"
+
+    }
+
+  }
+]
