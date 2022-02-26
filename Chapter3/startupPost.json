@@ -12,6 +12,20 @@
       "text": "我胡汉三回来了哈哈哈哈哈哈"
 
     }
+  },
 
+  {
+    "description": "这是一个带参数的post请求",
+    "request": {
+      "uri": "/postwithparam",
+      "method": "Post",
+      "forms": {
+        "name": "huhansan",
+        "sex": "man"
+      }
+    },
+    "response": {
+      "text": "我胡汉三带着参数来了哈"
+    }
   }
 ]
